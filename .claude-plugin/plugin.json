@@ -1,0 +1,5 @@
+{
+  "name": "dataset-generator-plugin",
+  "description": "Adds a /dataset-generator skill for generating high-quality evaluation datasets with adjustable difficulty levels from PDF documents for RAG system testing and benchmarking",
+  "version": "1.0.0",
+}
