@@ -21,18 +21,18 @@ Generate high-quality evaluation datasets with adjustable difficulty levels from
 
 **From GitHub (recommended):**
 ```bash
-/plugin marketplace add lanadominkovic/claude-marketplace
+/plugin marketplace add lanadominkovic/skill-marketplace
 ```
 
 **From local directory (for testing):**
 ```bash
-/plugin marketplace add ~/claude-marketplace
+/plugin marketplace add ~/skill-marketplace
 ```
 
 ### Install the plugin
 
 ```bash
-/plugin install dataset-generator-plugin@claude-marketplace
+/plugin install dataset-generator-plugin@skill-marketplace
 ```
 
 ## Usage
