@@ -1,5 +1,9 @@
 {
-  "name": "skill-plugins",
+  "name": "skill-marketplace",
+  "metadata": {
+      "description": "AI evaluation and benchmarking tools",
+      "version": "1.0.0"
+  },
   "owner": {
     "name": "lanadominkovic"
   },
